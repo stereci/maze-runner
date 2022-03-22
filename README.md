@@ -1,6 +1,5 @@
 # maze-runner
 Labirentten Çıkış
-Özet
 
 Bu yarışmada hedefiniz size verilen bir labirentte ilerleyerek başlangıç noktasından bitiş noktasına ulaşmak olacak. Labirent içinde sizin için gizlediğimiz bir mesaj bulunuyor. Yol üzerinde bulacağınız ipuçlarını bir araya getirerek oluşturacağınız bu gizli mesaj size ne yapmanız gerektiğini söyleyecek.
 
